@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
 //      Взаимное рецензирование
-        peerReview();
+//        peerReview();
 
 //        Самостоятельная работа
 //        sprints();
