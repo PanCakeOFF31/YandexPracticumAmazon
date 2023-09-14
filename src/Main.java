@@ -1,7 +1,7 @@
-import peerReview.PeerReview;
 
 import java.util.Scanner;
 
+import peerReview.PeerReview;
 import static peerReview.PeerReview.peerReview;
 import static sprints.Sprints.sprints;
 
@@ -12,7 +12,7 @@ public class Main {
 //        peerReview();
 
 //        Самостоятельная работа
-//        sprints();
+        sprints();
 
 
     }
